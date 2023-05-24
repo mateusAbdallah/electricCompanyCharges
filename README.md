@@ -8,3 +8,6 @@
 | For the next 300 units    | 3.5          |
 | Over 500 units            | 5            |
 
+Depending on the day of the payment, it will have a discount or a surcharge.
+- If consumers pays within 15 days a discount of 10% is given.
+- If consumers pays after 15 days a surcharge of 5% will be added.
