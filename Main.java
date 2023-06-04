@@ -17,10 +17,10 @@ public class Main {
            unitsConsumed *= 2.5;
            System.out.println("The total bill amount is $"+ unitsConsumed);
        } else if (unitsConsumed>=201 && unitsConsumed<=500) {
-           unitsConsumed *= 3.5;
+           unitsConsumed *= 3.5*2.5;
            System.out.println("The total bill amount is $"+ unitsConsumed);
        } else if (unitsConsumed >= 501){
-           unitsConsumed *= 5;
+           unitsConsumed *= 5*3.5*2.5;
            System.out.println("The total bill amount is $"+ unitsConsumed);
        }
        
